@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Fox Conqueror">
+  <rect width="32" height="32" rx="6" fill="#101614"/>
+  <polygon points="2,16 10,2 16,16" fill="#ff6a00"/>
+  <polygon points="16,16 22,2 30,16" fill="#ff6a00"/>
+  <polygon points="3,14 29,14 25,29 7,29" fill="#ff6a00"/>
+  <polygon points="11,20 21,20 16,28" fill="#e7eee9"/>
+  <rect x="8" y="16" width="4" height="4" fill="#101614"/>
+  <rect x="20" y="16" width="4" height="4" fill="#101614"/>
+</svg>
