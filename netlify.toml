@@ -1,0 +1,8 @@
+# Fox Conqueror — Nitro Netlify preset writes the site to dist/ and
+# functions to .netlify/functions-internal (picked up automatically).
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
